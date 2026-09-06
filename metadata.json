@@ -1,0 +1,6 @@
+{
+  "name": "Counter-Strike 3D: Dust II Remastered",
+  "description": "نسخه پیشرفته بازی تیراندازی اول شخص با سلاح‌های واقعی مانند FAMAS، جلیقه و کلاهخود، نارنجک‌های دستی و دودزا، حمل همزمان چند اسلحه و تنظیم دلخواه تعداد تروریست‌ها و بات‌ها.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
